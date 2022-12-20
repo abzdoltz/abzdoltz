@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abzdoltz
-- 👀 I’m interested in linux/bsd system administration
+- 👀 I’m working in this time in linux/bsd system administration
 - 🌱 I’m currently learning <php>, sad but true...
 - 📫 How to reach me last.of.the.free.name@gmail.com email, or +380931620595 telegram
 
